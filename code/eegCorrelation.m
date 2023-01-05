@@ -2,7 +2,7 @@ clc
 close all
 clear all
 
-%% Loading EEG signals
+%% EEG сorrelation analysis
 
 eegOpen = load('samples/EEGOpen.txt'); % 10-channel EEG recording
 
