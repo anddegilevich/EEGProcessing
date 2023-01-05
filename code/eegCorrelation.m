@@ -56,5 +56,3 @@ pcolor(eegCorrGrad)
 colormap(pink)
 title('Graduated correlation matrix')
 axis ij
-
-% clear corr corrGrad dy eegCorr eegCorrGrad i j threshold 
